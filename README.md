@@ -190,3 +190,16 @@ This design enables unsupervised hyperspectral super-resolution using only a sin
 If you use this code in your research, please cite:  
 
 
+@unpublished{xu:hal-05483496,
+  TITLE = {{Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images}},
+  AUTHOR = {Xu, Xinxin and Gousseau, Yann and Kervazo, Christophe and Ladjal, Sa{\"i}d},
+  URL = {https://telecom-paris.hal.science/hal-05483496},
+  NOTE = {working paper or preprint},
+  YEAR = {2025},
+  MONTH = Oct,
+  KEYWORDS = {Hyperspectral image ; Remote sensing ; Super-resolution ; Unsupervised learning ; Synthetic training data},
+  PDF = {https://telecom-paris.hal.science/hal-05483496v1/file/MAIN.pdf},
+  HAL_ID = {hal-05483496},
+  HAL_VERSION = {v1},
+}
+
