@@ -189,7 +189,7 @@ This design enables unsupervised hyperspectral super-resolution using only a sin
 
 If you use this code in your research, please cite:  
 
-
+```.
 @unpublished{xu:hal-05483496,
   TITLE = {{Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images}},
   AUTHOR = {Xu, Xinxin and Gousseau, Yann and Kervazo, Christophe and Ladjal, Sa{\"i}d},
@@ -202,4 +202,4 @@ If you use this code in your research, please cite:
   HAL_ID = {hal-05483496},
   HAL_VERSION = {v1},
 }
-
+```
